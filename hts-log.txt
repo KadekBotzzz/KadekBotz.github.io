@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Jul 2022 12:09:35 at https://helgastoree.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://helgastoree.xyz/ -O1 "C:\Users\user\Desktop\hehe" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:09:59	Error: 	"Not Found" (404) at link https://helgastoree.xyz/js/jquery.min.js (from https://helgastoree.xyz/)
+12:09:59	Error: 	"Not Found" (404) at link https://helgastoree.xyz/js/popper.min.js (from https://helgastoree.xyz/)
+12:09:59	Error: 	"Not Found" (404) at link https://helgastoree.xyz/js/bootstrap.min.js (from https://helgastoree.xyz/)
+12:09:59	Error: 	"Not Found" (404) at link https://helgastoree.xyz/js/jquery.easing.min.js (from https://helgastoree.xyz/)
+12:09:59	Error: 	"Not Found" (404) at link https://helgastoree.xyz/js/swiper.min.js (from https://helgastoree.xyz/)
+12:09:59	Error: 	"Not Found" (404) at link https://helgastoree.xyz/js/jquery.magnific-popup.js (from https://helgastoree.xyz/)
+12:09:59	Error: 	"Not Found" (404) at link https://helgastoree.xyz/js/validator.min.js (from https://helgastoree.xyz/)
+12:09:59	Error: 	"Not Found" (404) at link https://helgastoree.xyz/js/scripts.js (from https://helgastoree.xyz/)
+12:10:01	Error: 	"Not Found" (404) at link https://helgastoree.xyz/images/down-arrow.png (from https://helgastoree.xyz/css/styles.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 48 links scanned, 38 files written (14574463 bytes overall) [12839993 bytes received at 493845 bytes/sec], 2913954 bytes transferred using HTTP compression in 27 files, ratio 35%, 12.0 requests per connection
+(9 errors, 0 warnings, 0 messages)
